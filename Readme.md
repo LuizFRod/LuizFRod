@@ -16,7 +16,7 @@ Meu nome é Luiz Felipe, tenho 21 anos e sou estudante de ADS na Mackenzie.
 
 
 ## Cloud Computing
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
