@@ -19,4 +19,4 @@ Meu nome é Luiz Felipe, tenho 21 anos e sou estudante de ADS na Mackenzie.
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-![Snake animation](https://github.com/LuizFRod/LuizFRod/blob/output/github-contribution-grid-snake.svg)
+
